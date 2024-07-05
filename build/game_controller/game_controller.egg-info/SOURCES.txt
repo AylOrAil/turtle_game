@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../../build/game_controller/game_controller.egg-info/PKG-INFO
+../../build/game_controller/game_controller.egg-info/SOURCES.txt
+../../build/game_controller/game_controller.egg-info/dependency_links.txt
+../../build/game_controller/game_controller.egg-info/entry_points.txt
+../../build/game_controller/game_controller.egg-info/requires.txt
+../../build/game_controller/game_controller.egg-info/top_level.txt
+../../build/game_controller/game_controller.egg-info/zip-safe
+game_controller/__init__.py
+game_controller/game_logic.py
+game_controller/kill_at_x_9.py
+resource/game_controller
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

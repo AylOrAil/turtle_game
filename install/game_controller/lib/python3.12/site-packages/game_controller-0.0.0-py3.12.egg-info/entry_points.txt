@@ -1,0 +1,3 @@
+[console_scripts]
+game_logic = game_controller.game_logic:main
+killer_node = game_controller.kill_at_x_9:main

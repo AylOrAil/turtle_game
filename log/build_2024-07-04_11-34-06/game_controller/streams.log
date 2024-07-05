@@ -1,0 +1,33 @@
+[1.045s] Invoking command in '/home/aylar/turtle_game/ros2_ws/build/game_controller': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/aylar/turtle_game/ros2_ws/build/game_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aylar/turtle_game/ros2_ws/install/game_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/aylar/turtle_game/ros2_ws/build/game_controller/build --no-deps symlink_data --force
+[1.460s] running develop
+[1.726s] /usr/lib/python3/dist-packages/setuptools/command/develop.py:40: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[1.726s] !!
+[1.727s] 
+[1.727s]         ********************************************************************************
+[1.728s]         Please avoid running ``setup.py`` and ``easy_install``.
+[1.728s]         Instead, use pypa/build, pypa/installer or other
+[1.728s]         standards-based tools.
+[1.729s] 
+[1.729s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[1.730s]         ********************************************************************************
+[1.730s] 
+[1.731s] !!
+[1.731s]   easy_install.initialize_options(self)
+[1.990s] running egg_info
+[2.012s] writing game_controller.egg-info/PKG-INFO
+[2.012s] writing dependency_links to game_controller.egg-info/dependency_links.txt
+[2.012s] writing entry points to game_controller.egg-info/entry_points.txt
+[2.013s] writing requirements to game_controller.egg-info/requires.txt
+[2.013s] writing top-level names to game_controller.egg-info/top_level.txt
+[2.065s] reading manifest file 'game_controller.egg-info/SOURCES.txt'
+[2.066s] writing manifest file 'game_controller.egg-info/SOURCES.txt'
+[2.088s] running build_ext
+[2.088s] Creating /home/aylar/turtle_game/ros2_ws/install/game_controller/lib/python3.12/site-packages/game-controller.egg-link (link to .)
+[2.089s] Installing game_starter_node script to /home/aylar/turtle_game/ros2_ws/install/game_controller/lib/game_controller
+[2.089s] Installing killer_node script to /home/aylar/turtle_game/ros2_ws/install/game_controller/lib/game_controller
+[2.089s] 
+[2.089s] Installed /home/aylar/turtle_game/ros2_ws/build/game_controller
+[2.089s] running symlink_data
+[2.090s] symbolically linking /home/aylar/turtle_game/ros2_ws/build/game_controller/resource/game_controller -> /home/aylar/turtle_game/ros2_ws/install/game_controller/share/ament_index/resource_index/packages
+[2.090s] symbolically linking /home/aylar/turtle_game/ros2_ws/build/game_controller/package.xml -> /home/aylar/turtle_game/ros2_ws/install/game_controller/share/game_controller
+[2.136s] Invoked command in '/home/aylar/turtle_game/ros2_ws/build/game_controller' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/aylar/turtle_game/ros2_ws/build/game_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aylar/turtle_game/ros2_ws/install/game_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/aylar/turtle_game/ros2_ws/build/game_controller/build --no-deps symlink_data --force

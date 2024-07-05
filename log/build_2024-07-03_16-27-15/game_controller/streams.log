@@ -1,0 +1,25 @@
+[0.787s] Invoking command in '/home/aylar/turtle_game/ros2_ws/src/game_controller': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/aylar/turtle_game/ros2_ws/build/game_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aylar/turtle_game/ros2_ws/install/game_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/game_controller build --build-base /home/aylar/turtle_game/ros2_ws/build/game_controller/build install --record /home/aylar/turtle_game/ros2_ws/build/game_controller/install.log --single-version-externally-managed install_data
+[1.044s] running egg_info
+[1.065s] writing ../../build/game_controller/game_controller.egg-info/PKG-INFO
+[1.065s] writing dependency_links to ../../build/game_controller/game_controller.egg-info/dependency_links.txt
+[1.065s] writing entry points to ../../build/game_controller/game_controller.egg-info/entry_points.txt
+[1.066s] writing requirements to ../../build/game_controller/game_controller.egg-info/requires.txt
+[1.066s] writing top-level names to ../../build/game_controller/game_controller.egg-info/top_level.txt
+[1.106s] reading manifest file '../../build/game_controller/game_controller.egg-info/SOURCES.txt'
+[1.107s] writing manifest file '../../build/game_controller/game_controller.egg-info/SOURCES.txt'
+[1.107s] running build
+[1.107s] running build_py
+[1.107s] copying game_controller/game_logic.py -> /home/aylar/turtle_game/ros2_ws/build/game_controller/build/lib/game_controller
+[1.108s] running install
+[1.114s] running install_lib
+[1.132s] copying /home/aylar/turtle_game/ros2_ws/build/game_controller/build/lib/game_controller/game_logic.py -> /home/aylar/turtle_game/ros2_ws/install/game_controller/lib/python3.12/site-packages/game_controller
+[1.133s] byte-compiling /home/aylar/turtle_game/ros2_ws/install/game_controller/lib/python3.12/site-packages/game_controller/game_logic.py to game_logic.cpython-312.pyc
+[1.134s] running install_data
+[1.135s] running install_egg_info
+[1.154s] removing '/home/aylar/turtle_game/ros2_ws/install/game_controller/lib/python3.12/site-packages/game_controller-0.0.0-py3.12.egg-info' (and everything under it)
+[1.154s] Copying ../../build/game_controller/game_controller.egg-info to /home/aylar/turtle_game/ros2_ws/install/game_controller/lib/python3.12/site-packages/game_controller-0.0.0-py3.12.egg-info
+[1.155s] running install_scripts
+[1.285s] Installing game_starter_node script to /home/aylar/turtle_game/ros2_ws/install/game_controller/lib/game_controller
+[1.285s] Installing killer_node script to /home/aylar/turtle_game/ros2_ws/install/game_controller/lib/game_controller
+[1.286s] writing list of installed files to '/home/aylar/turtle_game/ros2_ws/build/game_controller/install.log'
+[1.312s] Invoked command in '/home/aylar/turtle_game/ros2_ws/src/game_controller' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/aylar/turtle_game/ros2_ws/build/game_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aylar/turtle_game/ros2_ws/install/game_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/game_controller build --build-base /home/aylar/turtle_game/ros2_ws/build/game_controller/build install --record /home/aylar/turtle_game/ros2_ws/build/game_controller/install.log --single-version-externally-managed install_data

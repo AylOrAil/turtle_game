@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/game_controller/game_controller.egg-info
+writing ../../build/game_controller/game_controller.egg-info/PKG-INFO
+writing dependency_links to ../../build/game_controller/game_controller.egg-info/dependency_links.txt
+writing entry points to ../../build/game_controller/game_controller.egg-info/entry_points.txt
+writing requirements to ../../build/game_controller/game_controller.egg-info/requires.txt
+writing top-level names to ../../build/game_controller/game_controller.egg-info/top_level.txt
+writing manifest file '../../build/game_controller/game_controller.egg-info/SOURCES.txt'
+reading manifest file '../../build/game_controller/game_controller.egg-info/SOURCES.txt'
+writing manifest file '../../build/game_controller/game_controller.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/aylar/turtle_game/ros2_ws/build/game_controller/build
+creating /home/aylar/turtle_game/ros2_ws/build/game_controller/build/lib
+creating /home/aylar/turtle_game/ros2_ws/build/game_controller/build/lib/game_controller
+copying game_controller/__init__.py -> /home/aylar/turtle_game/ros2_ws/build/game_controller/build/lib/game_controller
+copying game_controller/game_logic.py -> /home/aylar/turtle_game/ros2_ws/build/game_controller/build/lib/game_controller
+running install
+running install_lib
+creating /home/aylar/turtle_game/ros2_ws/install/game_controller/lib/python3.12/site-packages/game_controller
+copying /home/aylar/turtle_game/ros2_ws/build/game_controller/build/lib/game_controller/__init__.py -> /home/aylar/turtle_game/ros2_ws/install/game_controller/lib/python3.12/site-packages/game_controller
+copying /home/aylar/turtle_game/ros2_ws/build/game_controller/build/lib/game_controller/game_logic.py -> /home/aylar/turtle_game/ros2_ws/install/game_controller/lib/python3.12/site-packages/game_controller
+byte-compiling /home/aylar/turtle_game/ros2_ws/install/game_controller/lib/python3.12/site-packages/game_controller/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/aylar/turtle_game/ros2_ws/install/game_controller/lib/python3.12/site-packages/game_controller/game_logic.py to game_logic.cpython-312.pyc
+running install_data
+creating /home/aylar/turtle_game/ros2_ws/install/game_controller/share/ament_index
+creating /home/aylar/turtle_game/ros2_ws/install/game_controller/share/ament_index/resource_index
+creating /home/aylar/turtle_game/ros2_ws/install/game_controller/share/ament_index/resource_index/packages
+copying resource/game_controller -> /home/aylar/turtle_game/ros2_ws/install/game_controller/share/ament_index/resource_index/packages
+copying package.xml -> /home/aylar/turtle_game/ros2_ws/install/game_controller/share/game_controller
+running install_egg_info
+Copying ../../build/game_controller/game_controller.egg-info to /home/aylar/turtle_game/ros2_ws/install/game_controller/lib/python3.12/site-packages/game_controller-0.0.0-py3.12.egg-info
+running install_scripts
+Installing game_controller_node script to /home/aylar/turtle_game/ros2_ws/install/game_controller/lib/game_controller
+writing list of installed files to '/home/aylar/turtle_game/ros2_ws/build/game_controller/install.log'
